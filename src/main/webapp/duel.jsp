@@ -135,9 +135,6 @@
 
             <p><b>${personageTwo.message}</b></p>
         </div>
-
-
-
         <div class="columns_item">
             <p>
             <h2>Атакуємо</h2></p>
