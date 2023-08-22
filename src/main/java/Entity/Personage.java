@@ -6,6 +6,9 @@ public class Personage {
     int hp;
     int damage;
     int protection;
+    String type;
+
+
 
     String message;
 
@@ -52,6 +55,14 @@ public class Personage {
         this.protection = protection;
     }
 
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
     public String getMessage() {
         return message;
     }
